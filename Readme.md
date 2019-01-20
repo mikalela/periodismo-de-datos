@@ -1,4 +1,4 @@
-# periodismo-de-datos
+# Periodismo de datos
 ## Esto es un repositorio de pruebas del máster para apreder a usar MarkDown
 Esto es un párrafo
 
