@@ -1,9 +1,14 @@
 # Periodismo de datos
 
 ## Comandos:
-`mk dir`: crear un directorio
-`ls`: 
-`cd`:
+- `mk dir`: crear un directorio
+- `ls`: 
+- `cd`:
+- `nano`:
+- `cat`: muestra el contenido de la pantalla. Hay que tabular, no darle a enter, para que funcione.
+`du -sh ~/carpeta/`: conocer la capacidad que ocupa un directorio/carpeta que hay en el directorio
+
+
 
 ## Cambiar la home de Cygwin
 Es decir, cómo pasar del espacio que tiene creado *Cygwin* en el terminal  a nuestro espacio de Windows, con el objetivo de tener acceso a nuestro directorio, es decir, en nuestro usuario ahora podremos crear carpetas, borrar o manipularlas a través de *Cygwin*.
