@@ -1,6 +1,6 @@
 # Periodismo de datos
 
-## Comandos:
+## Comandos
 - `mk dir`: crear un directorio
 - `ls`: 
 - `cd`:
